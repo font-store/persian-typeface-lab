@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'TestFont';
+    src: url('Parastoo.woff') format('woff'),
+    url('Parastoo.ttf') format('truetype');
+       
+    font-weight: normal;
+    font-style: normal;
+}

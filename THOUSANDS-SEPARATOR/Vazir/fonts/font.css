@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'TestFont';
+    src: url('Vazir.woff') format('woff'),
+    url('Vazir.ttf') format('truetype');
+       
+    font-weight: normal;
+    font-style: normal;
+}
