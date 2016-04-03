@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'TestFont';
-    src: url('Pfont-Regular.otf') format('opentype'),
-    url('Vazir.ttf') format('truetype');
+    src: url('Pfont-Regular.ttf') format('truetype');
        
     font-weight: normal;
     font-style: normal;
