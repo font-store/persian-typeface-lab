@@ -14,4 +14,4 @@
 
 فونت صمیم: http://font-store.github.io/research/THOUSANDS-SEPARATOR/Samim
 
-فونت وزیر: http://font-store.github.io/research/THOUSANDS-SEPARATOR/ٰVazir
+فونت وزیر:http://font-store.github.io/research/THOUSANDS-SEPARATOR/Vazir/
