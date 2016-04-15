@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg viewBox="0 0 1000 1000"
+<svg viewBox="0 0 1000 500"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
 
 	<style>
@@ -13,6 +13,6 @@
    </style>
 
   <text x="100" y="100"
-           style="font-family: 'ganj'; font-weight:normal;
+           style="font-family: 'ganj'; font-weight:normal; font-size:100px;
                   font-style: normal">بلیبلیبلیبلیبلیبلیبل</text>
 </svg>
