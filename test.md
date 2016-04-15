@@ -1,4 +1,4 @@
-<div dir="rtl" style="font-family:tahoma">
+<div dir="rtl"  style="font-family:tahom;">
 یلیبلیبلیلیبل
 
 </div>
