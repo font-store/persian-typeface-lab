@@ -1,7 +1,1 @@
-
-<div dir="rtl"  style="color:red">
-
-یلیبلیبلیلیبل
-
-</div>
-
+<img src="http://font-store.github.io/research/a.svg">
