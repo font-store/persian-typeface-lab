@@ -1,8 +1,7 @@
-``` html
-<div dir="rtl"  style="font-family:tahom;">
-<font size="3" color="red">This is some text!</font>
+
+<div dir="rtl"  style="color:red">
+
 یلیبلیبلیلیبل
 
 </div>
 
-```
